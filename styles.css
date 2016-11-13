@@ -1,0 +1,35 @@
+body{
+	font-family: sans-seriff;
+	font-weight: 100px;
+	background: #cccc;
+}
+
+h1{
+	text-align: center;
+	color:#666;
+	text-shadow: 0px 2px 0px #fff;
+}
+
+.name{
+	font-size: 18px;
+}
+
+.phone{
+	font-style: italic;
+	font-size: 13px;
+
+}
+
+.wrapper{
+	width: 650px;
+	margin: 0 auto; /* poner en el centro independientemente de la reslucion */
+	box-shadow: 5px 5px 5px #555;
+	background: #fff;
+	border-radius: 15px;
+	padding: 10px;
+}
+
+.contact-item{
+	border-bottom: thin solid #ccc; /*hara que aparezca una linea debajo de cada contacto
+	padding: 10px;
+}
